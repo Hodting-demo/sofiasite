@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-6">
             <Link to="/" className="flex items-center gap-2 group">
-              <img src="/logo.png" alt="Хороший сезон" className="h-10 w-10 brightness-110" />
+              <img src="./logo.png" alt="Хороший сезон" className="h-10 w-10 brightness-110" />
               <span className="text-xl font-bold text-white transition-colors group-hover:text-orange-400">Хороший сезон</span>
             </Link>
             <p className="text-sm leading-relaxed max-w-xs text-stone-400">
