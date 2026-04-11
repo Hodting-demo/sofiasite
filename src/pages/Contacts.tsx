@@ -71,7 +71,7 @@ const Contacts = () => {
             {/* Warehouse Map (Placeholder) */}
             <div className="relative group rounded-[2.5rem] overflow-hidden shadow-2xl">
               <img 
-                src="/map-placeholder.jpg" 
+                src="./map-placeholder.jpg" 
                 alt="Our location" 
                 className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-700"
               />

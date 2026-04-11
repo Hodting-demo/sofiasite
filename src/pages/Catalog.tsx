@@ -114,7 +114,7 @@ const Catalog = () => {
         {/* Catalog Banner */}
         <div className="mt-24 p-12 bg-stone-900 rounded-[3rem] text-center text-white relative overflow-hidden group">
           <div className="absolute inset-0 opacity-10 group-hover:opacity-20 transition-opacity">
-            <img src="/hero.jpg" alt="Background" className="w-full h-full object-cover" />
+            <img src="./hero.jpg" alt="Background" className="w-full h-full object-cover" />
           </div>
           <div className="relative z-10">
             <h2 className="text-3xl font-bold mb-6">Нужен полный прайс-лист?</h2>

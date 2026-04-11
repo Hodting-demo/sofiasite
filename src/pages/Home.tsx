@@ -9,7 +9,7 @@ const Home = () => {
       <section className="relative h-[85vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/hero.jpg" 
+            src="./hero.jpg" 
             alt="Hero background" 
             className="w-full h-full object-cover filter brightness-[0.6]"
           />
@@ -82,8 +82,8 @@ const Home = () => {
             </div>
             
             <div className="grid grid-cols-2 gap-4">
-              <img src="/nuts-mix.jpg" alt="Nuts" className="rounded-3xl shadow-2xl mt-12 hover:scale-[1.02] transition-transform duration-500" />
-              <img src="/dried-fruits.jpg" alt="Dried fruits" className="rounded-3xl shadow-2xl hover:scale-[1.02] transition-transform duration-500" />
+              <img src="./nuts-mix.jpg" alt="Nuts" className="rounded-3xl shadow-2xl mt-12 hover:scale-[1.02] transition-transform duration-500" />
+              <img src="./dried-fruits.jpg" alt="Dried fruits" className="rounded-3xl shadow-2xl hover:scale-[1.02] transition-transform duration-500" />
             </div>
           </div>
         </div>
