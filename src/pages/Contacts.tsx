@@ -42,7 +42,7 @@ const Contacts = () => {
                   <Mail className="h-4 w-4" /> Написать
                 </div>
                 <a href="mailto:info@good-season.ru" className="text-2xl font-bold text-stone-900 hover:text-orange-600 transition-colors">
-                  info@good-season.ru
+                  info@sofia-zadanie.ru
                 </a>
                 <p className="text-stone-500 text-sm">Для коммерческих предложений и тендеров.</p>
               </div>

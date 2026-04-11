@@ -33,7 +33,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-orange-400 flex-shrink-0" />
-                <span className="text-sm">г. Москва, ул. Рябиновая, 44, стр. 1<br/><span className="text-stone-500">Пн — Пт: 9:00 - 18:00</span></span>
+                <span className="text-sm">г. Москва, ул. Софии, 1, стр. 1<br/><span className="text-stone-500">Пн — Пт: 9:00 - 18:00</span></span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-orange-400 flex-shrink-0" />
@@ -41,7 +41,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-orange-400 flex-shrink-0" />
-                <a href="mailto:info@good-season.ru" className="text-sm hover:text-white">info@good-season.ru</a>
+                <a href="mailto:info@good-season.ru" className="text-sm hover:text-white">Sofia-CEO@zadanie.ru</a>
               </li>
             </ul>
           </div>
@@ -65,7 +65,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-stone-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-xs text-stone-500 uppercase tracking-widest">© 2024 ООО «Хороший сезон». Все права защищены.</p>
+          <p className="text-xs text-stone-500 uppercase tracking-widest">© 2026 ООО «Задание Софии». Все права защищены.</p>
           <div className="flex gap-6">
             <a href="#" className="text-xs text-stone-600 hover:text-stone-400 uppercase tracking-widest">Политика конфиденциальности</a>
             <a href="#" className="text-xs text-stone-600 hover:text-stone-400 uppercase tracking-widest">Оферта</a>
